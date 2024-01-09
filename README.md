@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Kiprono</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<p align="center"> <a href="https://twitter.com/illicitbandit" target="blank"><img src="https://img.shields.io/twitter/follow/illicitbandit?logo=twitter&style=for-the-badge" alt="illicitbandit" /></a> </p>
+<p align="center"> <a href="https://twitter.com/lkbrian_info" target="blank"><img src="https://img.shields.io/twitter/follow/illicitbandit?logo=twitter&style=for-the-badge" alt="illicitbandit" /></a> </p>
 
 <p align="center">
   <samp>🌱 I’m currently learning <strong>JavaScript, React, Redux, Tailwind, React-router-DOM, Next.js</strong></samp>
