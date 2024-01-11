@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Kiprono</h1>
-<h3 align="center">A passionate full-stack web developer from Kenya</h3>
+<h3 align="center"><samp>A passionate full-stack web developer from Kenya</samp></h3>
 
 <p align="center"> <a href="https://twitter.com/lkbrian_info" target="blank"><img src="https://img.shields.io/twitter/follow/lkbrian_info?logo=twitter&style=for-the-badge" alt="lkbrian_info" /></a> </p>
 
