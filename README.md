@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/lkbrian_info" target="blank"><img src="https://img.shields.io/twitter/follow/lkbrian_info?logo=twitter&style=for-the-badge" alt="lkbrian_info" /></a> </p>
 
 <p align="center">
-  <samp>🌱 I’m currently learning <strong>JavaScript, React, Redux, Tailwind, React-router-DOM, Next.js</strong></samp>
+  <samp>🌱 I’m currently learning <strong>JavaScript,<br> React, Tailwind,<br>  React-router-DOM, Next.js</strong></samp>
   <br/><br/>
   <samp>📫 How to reach me <strong><a href="mailto:lkbrian.info@gmail.com">lkbrian.info@gmail.com</a></strong></samp>
   <br/><br/>
