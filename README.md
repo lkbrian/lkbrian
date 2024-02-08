@@ -25,7 +25,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lkbrian&show_icons=true&locale=en" alt="lkbrian" width="50%"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lkbrian&show_icons=true&locale=en" alt="lkbrian" width="48%"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkbrian&" alt="lkbrian" width="50%"/></p>
 
