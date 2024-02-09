@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Kiprono</h1>
+<h1 align="center"><samp>Hi 👋, I'm Brian Kiprono</samp></h1>
 <h3 align="center"><samp>A passionate full-stack Software developer</samp></h3>
 <p align="center">
   <a href="https://www.instagram.com/lk._brian/" target="blank"><img src="https://img.shields.io/badge/Follow-Instagram-%23E4405F?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
