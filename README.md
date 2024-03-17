@@ -50,7 +50,8 @@
   </a>   
 </p>
 <h3 align="left"><samp>Stats</samp></h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lkbrian&" alt="lkbrian" width="48%"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkbrian&show_icons=true&locale=en&layout=compact" alt="lkbrian" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lkbrian&show_icons=true&locale=en" alt="lkbrian" width="46%"/></p>
 
 
