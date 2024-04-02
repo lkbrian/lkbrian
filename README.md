@@ -49,10 +49,9 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>   
 </p>
-<h3 align="left"><samp>Stats</samp></h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkbrian&show_icons=true&locale=en&layout=compact" alt="lkbrian" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lkbrian&show_icons=true&locale=en" alt="lkbrian" width="46%"/></p>
+<!-- <h3 align="left"><samp>Stats</samp></h3>-->
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lkbrian&show_icons=true&locale=en" alt="lkbrian" width="46%"/></p> -->
 
 
-
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkbrian&show_icons=true&locale=en&layout=compact" alt="lkbrian" /></p> -->
+ 
