@@ -9,7 +9,7 @@
   <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png?f=webp" alt="Coding in action" width="46%"/>
 
 
-- <samp>🌱 I’m currently learning **React,Chakra UI,flask,python**</samp>
+- <samp>🌱 I’m currently learning **React Angular**</samp>
 
 - <samp>💬 Ask me about **Javascript,Tailwind,React,SQL**</samp>
 
