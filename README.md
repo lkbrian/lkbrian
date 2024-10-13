@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/lbrian-info/" target="blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-%230A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 <div>
-  <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png?f=webp" alt="Coding in action" width="46%"/>
+  <img align="right" display="none" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png?f=webp" alt="Coding in action" width="46%"/>
 
 
 - <samp>🌱 I’m currently learning **React Native and Angular**</samp>
